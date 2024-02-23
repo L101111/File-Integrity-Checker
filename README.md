@@ -12,6 +12,6 @@ To use simply start the tool:
 
         $ python3 IChecker.py
 
-Chose one of the two options(1 or 2), enter the directory and enjoy!
+Chose one of the two options(1 or 2) and enter the directory.
 
-# 
+# Enjoy
